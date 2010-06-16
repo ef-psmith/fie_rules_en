@@ -38,9 +38,9 @@
      inkscape:window-height="988"
      id="namedview2818"
      showgrid="false"
-     inkscape:zoom="3.2178742"
-     inkscape:cx="371.875"
-     inkscape:cy="500.45532"
+     inkscape:zoom="9.5656339"
+     inkscape:cx="422.05463"
+     inkscape:cy="580.01095"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -981,6 +981,7 @@
      sodipodi:role="line"
      id="tspan3438">Curve of blade, épée</tspan></text>
 
+
 <text
    transform="matrix(0,1,1,0,177.5,510)"
    id="text3440"><tspan
@@ -989,6 +990,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3442">170</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-1,110.02,457.12)"
@@ -1013,6 +1015,7 @@
      y="75.75"
      sodipodi:role="line"
      id="tspan3452">sabre blade</tspan></text>
+
 
 <text
    transform="matrix(0,1,1,0,162.63,414.329)"
@@ -1043,6 +1046,7 @@
      sodipodi:role="line"
      id="tspan3464">140</tspan></text>
 
+
 <text
    transform="matrix(1,0,0,-1,236,426)"
    id="text3466"><tspan
@@ -1062,6 +1066,7 @@
      sodipodi:role="line"
      id="tspan3472">ø120</tspan></text>
 
+
 <text
    transform="matrix(0,1,1,0,289.13,477.329)"
    id="text3474"><tspan
@@ -1070,6 +1075,7 @@
      y="0"
      sodipodi:role="line"
      id="tspan3476">55</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-1,328.133,524.37)"
@@ -1090,15 +1096,16 @@
      sodipodi:role="line"
      id="tspan3484">épée guard</tspan><tspan
      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-variant:normal;font-weight:300;font-size:8;writing-mode:lr;-inkscape-font-specification:Helvetica-Light"
-     x="-0.727344 4.160656 8.608656 10.832656 15.280656 17.056656 19.280656 21.056656 25.504656 29.952656 34.400656 36.624656 41.072656 43.296656 47.744656 49.968656"
-     y="40.7504"
+     x="-0.72734398 4.160656 8.6086559 10.832656 15.280656 17.056656 19.280657 21.056656 25.504656 29.952656 34.400658 36.624657 41.072655 43.296658 47.744656"
+     y="40.750401"
      sodipodi:role="line"
-     id="tspan3486">Total length off</tspan><tspan
+     id="tspan3486">Total length of</tspan><tspan
      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-variant:normal;font-weight:300;font-size:8;writing-mode:lr;-inkscape-font-specification:Helvetica-Light"
      x="-0.727344 1.496656 5.944656 7.720656 9.496656 11.720656 16.168656 20.616656 25.064656 27.288656 31.736656 36.184656 40.632656"
      y="50.2504"
      sodipodi:role="line"
      id="tspan3488">foil and épée</tspan></text>
+
 
 <text
    transform="matrix(0,1,1,0,322.13,414.553)"
@@ -1118,6 +1125,7 @@
      y="-11.870313"
      sodipodi:role="line"
      id="tspan3496">900</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-1,325.355,377.37)"
@@ -1143,6 +1151,7 @@
      sodipodi:role="line"
      id="tspan3506">blades</tspan></text>
 
+
 <text
    transform="matrix(0,1,1,0,367.63,419.329)"
    id="text3508"><tspan
@@ -1156,6 +1165,7 @@
      y="75"
      sodipodi:role="line"
      id="tspan3512">55</tspan></text>
+
 
 <text
    transform="matrix(1,0,0,-1,418.579,320.12)"
@@ -1225,5 +1235,6 @@
      y="112.12"
      sodipodi:role="line"
      id="tspan3540">Diameter = 135 mm</tspan></text>
+
 
 </g></g></g></svg>
